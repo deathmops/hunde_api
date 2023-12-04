@@ -1,0 +1,45 @@
+- name: Max
+  breed: Labrador Retriever
+  age: 3
+  weight: 27 kg
+  color: Yellow
+  favorite_activities:
+    - Fetch
+    - Swimming
+    - Belly rubs
+
+- name: Bella
+  breed: German Shepherd
+  age: 5
+  weight: 30 kg
+  color: Black and Tan
+  favorite_activities:
+    - Agility training
+    - Playing Frisbee
+
+- name: Charlie
+  breed: Golden Retriever
+  age: 2
+  weight: 25 kg
+  color: Golden
+  favorite_activities:
+    - Playing with a tennis ball
+    - Going on long walks
+
+- name: Luna
+  breed: Siberian Husky
+  age: 4
+  weight: 21 kg
+  color: Black and White
+  favorite_activities:
+    - Running in the snow
+    - Pulling sleds
+
+- name: Cooper
+  breed: Beagle
+  age: 6
+  weight: 12 kg
+  color: Tri-color
+  favorite_activities:
+    - Following scents
+    - Playing hide-and-seek
